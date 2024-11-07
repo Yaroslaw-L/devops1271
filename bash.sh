@@ -1,6 +1,6 @@
 #!/bin/bash 
 COUNTER=0 
-while [ $COUNTER -lt 11 ] 
+while [ $COUNTER -lt 12 ] 
 do 
    echo The counter is $COUNTER 
    let COUNTER=$COUNTER+1 
